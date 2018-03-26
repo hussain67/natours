@@ -7,7 +7,11 @@
 @import "base/_base";
 @import "base/_typography";
 @import "base/_utilities";
-@import "pages/_home";
+
 @import "components/_button";
+@import "components/_composition";
+
 @import "layout/_header";
 @import "layout/_grid";
+
+@import "pages/_home";
